@@ -2,6 +2,10 @@
 
 This is ASP.Net API for simple CRM
 
+## Features
+1. Gemini API (OpenRouter, model gemini-2.0-flash-lite-preview)
+2. SMTP mail service
+
 ## How to setup
 1. Install by doing:
    ```
